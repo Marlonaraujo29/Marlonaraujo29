@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Atualmente estou trabalhando no projeto: "meu_portifolio"<br>📚 Hoje, estou aprendendo sobre Node.js e SQL Server. Além disso, também estudo um pouco sobre Flutter<br>💡 Interesses: Desenvolvimento Web, APIs e Banco de dados<br>📫 Como me encontrar: marlonaraujo2525@gmail.com</p>
+<p align="left">✨ Atualmente estou trabalhando no projeto: "portifolio-marlon"<br>📚 Hoje, estou aprendendo sobre Node.js e SQL Server. Além disso, também estudo um pouco sobre Flutter<br>💡 Interesses: Desenvolvimento Web, APIs e Banco de dados<br>📫 Como me encontrar: marlonaraujo2525@gmail.com</p>
 
 ###
 
